@@ -1,0 +1,157 @@
+.text-block {
+  width: 1336px;
+  height: 178px;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-bottom: 40px;
+  margin-right: auto;
+  background-color: white;
+  text-align: center;
+}
+.container {
+  width: 1336px;
+  margin: 0 auto;
+  background-color: white;
+  display: flex;
+  flex-flow: row wrap;
+}
+.box {
+  width: 310px;
+  height: 430px;
+  background-color: white;
+  border: 1px solid #eaecf0;
+}
+.row1 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  height: 908px;
+  align-content: space-between;
+  flex-wrap: wrap;
+}
+h3 {
+  font-size: 16px;
+}
+h2 {
+  font-size: 54px;
+}
+.header-descr {
+  font-size: 20px;
+  width: 760px;
+  height: 70px;
+  margin: 16px auto 0 auto;
+}
+h4 {
+  font-size: 18px;
+  margin: 16px 16px 4px 16px;
+  color: #282828;
+}
+.proffesion {
+  font-size: 14px;
+  margin: 4px 16px 8px 16px;
+  color: #3e3e59;
+}
+.descr {
+  color: #5f6980;
+  font-size: 14px;
+  margin: 8px 16px 24px 16px;
+}
+.icons {
+  height: 36px;
+  width: 36px;
+  margin: 24px 16px 16px 16px;
+}
+.footer {
+  height: 460px;
+  width: 1440px;
+  background-color: #53535354;
+  margin-top: 48px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.row2 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.box1 {
+  height: 221px;
+  width: 318.05px;
+  margin-top: 108px;
+  margin-left: 164px;
+}
+.footer-descr {
+  color: #535353;
+  font-size: 14px;
+  width: 306.05px;
+  height: 73px;
+  margin-top: 32px;
+}
+.footer-icon {
+  width: 24px;
+  height: 24px;
+  margin-left: 7px;
+  margin-right: 7px;
+  margin-top: 28px;
+}
+.fb {
+  margin-left: 0;
+}
+.box2 {
+  height: 223px;
+  width: 136px;
+  margin-top: 108px;
+  margin-left: 73.95px;
+}
+h5 {
+  color: #1e1e1e;
+  font-size: 20px;
+}
+
+.home {
+  margin-top: 71px;
+  margin-bottom: 15px;
+  color: #535353;
+  font-size: 14px;
+}
+.about {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  color: #535353;
+  font-size: 14px;
+}
+.touch {
+  margin-top: 40px;
+  color: #535353;
+  font-size: 14px;
+}
+.box3 {
+  height: 223px;
+  width: 199px;
+  margin-top: 108px;
+  margin-left: 200px;
+}
+.asset {
+  font-size: 14px;
+  color: #535353;
+  margin-top: 65px;
+  margin-bottom: 40px;
+}
+.emotional-will {
+  font-size: 14px;
+  color: #535353;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.box4 {
+  width: 107px;
+  height: 127.45px;
+  margin-top: 108px;
+  margin-left: 94px;
+}
+.language {
+  padding: 14px 16px;
+  background-color: #054a68;
+  color: white;
+  margin-top: 58.45px;
+}
