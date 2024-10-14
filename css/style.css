@@ -114,16 +114,26 @@ h5 {
   color: #535353;
   font-size: 14px;
 }
+.home :hover {
+  color: white;
+
+}
 .about {
   margin-top: 40px;
   margin-bottom: 40px;
   color: #535353;
   font-size: 14px;
 }
+.about :hover {
+  color: white;
+}
 .touch {
   margin-top: 40px;
   color: #535353;
   font-size: 14px;
+}
+.touch :hover {
+  color: white;
 }
 .box3 {
   height: 223px;
@@ -137,11 +147,24 @@ h5 {
   margin-top: 65px;
   margin-bottom: 40px;
 }
+.asset :hover {
+  color: white;
+}
 .emotional-will {
   font-size: 14px;
   color: #535353;
   margin-top: 40px;
   margin-bottom: 40px;
+}
+.emotional-will :hover {
+  color: white;
+}
+.time-capsule {
+  font-size: 14px;
+  color: #535353;
+}
+.time-capsule :hover {
+  color: white;
 }
 /*  */
 .box4 {
@@ -156,3 +179,4 @@ h5 {
   color: white;
   margin-top: 58.45px;
 }
+
